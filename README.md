@@ -25,5 +25,5 @@ Provides a hierarchical view of sales data categorized by gender.
 Displays key performance indicators (KPIs) such as total sales, average sales per store, and more.
 6. Slicer
 Allows filtering of sales data by department for detailed analysis.
-![Screenshot 2024-07-26 202102](https://github.com/user-attachments/assets/b89020ca-3be8-4f08-a169-0647bd01cb6e)
+
 ![Screenshot 2024-07-26 203404](https://github.com/user-attachments/assets/dd1f9e0c-21f5-4d75-996e-3470fe9dbb0d)
